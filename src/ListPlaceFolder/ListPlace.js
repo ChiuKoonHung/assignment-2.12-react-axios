@@ -5,7 +5,7 @@ const API = axios.create({
     baseURL: 'https://skyscanner-skyscanner-flight-search-v1.p.rapidapi.com/apiservices/autosuggest/v1.0/UK/GBP',
     headers: {
         'x-rapidapi-host': 'skyscanner-skyscanner-flight-search-v1.p.rapidapi.com',
-        'x-rapidapi-key': '86db650bd0msha8cd5b031bafacap183965jsn4f7e6fb311b2'
+        'x-rapidapi-key': 'undefined' //github sent email abt exposed API key so i removed.
     },
 });
 
